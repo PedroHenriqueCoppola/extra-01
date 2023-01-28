@@ -75,6 +75,7 @@ li a {
 footer img {
   width: 100vw;
   margin-bottom: 0;
+  position: absolute;
 }
 
 footer div {
