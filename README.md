@@ -1,4 +1,4 @@
-<h1 align="center"> FLutuar </h1>
+<h1 align="center"> Flutuar </h1>
 
 <p align="center">
 Projeto desenvolvido durante o desenvolvimento do curso Explorer da Rocketseat. 🚀🔥
