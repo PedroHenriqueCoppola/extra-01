@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Utiliza de tecnologias e linguagens básicas do navegador para apresentar a criação de ambientes criados pelos desenvolvedores.
+Utiliza de tecnologias e linguagens básicas do navegador para apresentar a Flutuar, empresa onde você encontra pacotes arrasadores para sua próxima viagem.
 
 ## 🔗 Links
 
